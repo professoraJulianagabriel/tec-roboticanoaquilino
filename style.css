@@ -1,0 +1,47 @@
+body {
+    color:grey;
+    background:rgb(177, 163, 177);
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+header {
+    border-bottom: solid 3px white;
+    font-size: 32px;
+    color:black;
+    padding: 20px;
+}
+
+h1 { 
+    font-size: 20px;
+    margin:20px;
+    }
+
+P
+{
+font-size:  20px;
+color:white;
+margin:10px
+
+}
+
+img {
+    height: 250px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+inframe {
+       display:block;
+       margin-left: 250px;
+    margin-right: auto;
+}
+
+section {
+    background: black;
+    margin: 60px;
+    padding-top: 80px;
+    display:flex; 
+    justify-content: center;
+}
